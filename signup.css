@@ -1,0 +1,20 @@
+body{
+	background-image: url("images/back2.jpg");
+	background-size: cover;
+}
+
+.abc{
+	margin-top: 65px; 
+	background-color: white; 
+	border-radius: 10px; 
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+}
+.abcd{
+	margin-top: 250px; 
+	background-color: white; 
+	border-radius: 10px; 
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+}
+table, th, td {
+    border: 1px solid black;
+}
